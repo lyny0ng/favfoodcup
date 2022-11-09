@@ -148,20 +148,21 @@ const Game = () => {
 
     const clickHandler = (food) => (d) => {
         if (foods.length <= 2) {
-          if (winners.length === 0) {
+            if (winners.length === 0) {
             setDisplays([food]);
-          } else {
-            let updatedFood = [...winners, food];
-            setFoods(updatedFood);
-            setDisplays([updatedFood[0], updatedFood[1]]);
-            setWinners([]);
-          }
+            } else {
+                let updatedFood = [...winners, food];
+                setFoods(updatedFood);
+                setDisplays([updatedFood[0], updatedFood[1]]);
+                setWinners([]);
+            }
         } else if (foods.length > 2) {
-          setWinners([...winners, food]);
-          setDisplays([foods[2], foods[3]]);
-          setFoods(foods.slice(2));
+            setWinners([...winners, food]);
+            setDisplays([foods[2], foods[3]]);
+            setFoods(foods.slice(2));
         }
-      };
+    };
+    
     return(
         <FlexBox>
         <h1 className='title'>음식월드컵</h1>
