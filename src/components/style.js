@@ -2,6 +2,7 @@ import styled from 'styled-components';
 
 export const FlexBox = styled.div`
     display: flex;
+    flex-direction: row;
     flex-wrap: wrap;
     // height: 100vh;
     font-size: 16px;
