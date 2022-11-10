@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/favfoodcup/static/js/main.a4b5158c.js",
+    "main.js": "/favfoodcup/static/js/main.bf5f8ba3.js",
     "static/media/shabu.jpg": "/favfoodcup/static/media/shabu.6d9c4612527a4f4653ac.jpg",
     "static/media/beef.jpg": "/favfoodcup/static/media/beef.ae73b6eb9a81a6712559.jpg",
     "static/media/dakgalbi.jpg": "/favfoodcup/static/media/dakgalbi.40d43fde8d13b61017a4.jpg",
@@ -34,9 +34,9 @@
     "static/media/dakbal.jpg": "/favfoodcup/static/media/dakbal.758d4ada4a2ac3f664d0.jpg",
     "static/media/dakbokumtang.jpg": "/favfoodcup/static/media/dakbokumtang.52f29419cd6b70c8fa1e.jpg",
     "index.html": "/favfoodcup/index.html",
-    "main.a4b5158c.js.map": "/favfoodcup/static/js/main.a4b5158c.js.map"
+    "main.bf5f8ba3.js.map": "/favfoodcup/static/js/main.bf5f8ba3.js.map"
   },
   "entrypoints": [
-    "static/js/main.a4b5158c.js"
+    "static/js/main.bf5f8ba3.js"
   ]
 }
