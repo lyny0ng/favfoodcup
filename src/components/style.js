@@ -61,4 +61,15 @@ export const FlexBox = styled.div`
         background: rgba(0,0,0,0.5);
         padding: 0 8px;
     }
+
+    @media (max-width: 999px ) {
+        .name {
+            top: 60%;
+            left: 40%;
+        }
+
+        .title {
+            left: 50%;
+        }
+    }
 `;
