@@ -14,7 +14,6 @@ export const FlexBox = styled.div`
     .flex-1 {
         flex: 1;
         min-width: 500px;
-        height: 35rem;
         overflow: hidden;
         position: relative;
     }
