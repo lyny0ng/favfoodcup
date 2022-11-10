@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.js": "/favfoodcup/static/js/main.143e680e.js",
+    "static/media/shabu.jpg": "/favfoodcup/static/media/shabu.dc765dd18afe24738554.jpg",
+    "static/media/jangeo.jpg": "/favfoodcup/static/media/jangeo.ed7108e3a392ae11e025.jpg",
+    "static/media/beef.jpg": "/favfoodcup/static/media/beef.f41803dce5f62e4cb785.jpg",
+    "static/media/dakbal.jpg": "/favfoodcup/static/media/dakbal.758d4ada4a2ac3f664d0.jpg",
+    "static/media/dakbokumtang.jpg": "/favfoodcup/static/media/dakbokumtang.52f29419cd6b70c8fa1e.jpg",
+    "static/media/dakgalbi.jpg": "/favfoodcup/static/media/dakgalbi.4d25b3ce469ddc9c94e3.jpg",
+    "static/media/jogaejjim.jpg": "/favfoodcup/static/media/jogaejjim.e97283ff85699c688759.jpg",
+    "static/media/makchang.jpg": "/favfoodcup/static/media/makchang.877595ba0393d24ae876.jpg",
+    "static/media/kimchijjim.jpg": "/favfoodcup/static/media/kimchijjim.95bce1216bfec7305c59.jpg",
+    "static/media/gamjatang.jpg": "/favfoodcup/static/media/gamjatang.28035c2077fe54fa3ca1.jpg",
+    "static/media/chicken.jpg": "/favfoodcup/static/media/chicken.6baa4c7a048534110ead.jpg",
+    "static/media/libwithsauce.jpg": "/favfoodcup/static/media/libwithsauce.ffa41152c89df23034fd.jpg",
+    "static/media/gopchang.jpg": "/favfoodcup/static/media/gopchang.bfefb584b1ff873db3da.jpg",
+    "static/media/kimbab.jpg": "/favfoodcup/static/media/kimbab.d3f48217de0dfd8aab8a.jpg",
+    "static/media/samgyup.jpg": "/favfoodcup/static/media/samgyup.4ec309d2451aade19ef3.jpg",
+    "static/media/jokbal.jpg": "/favfoodcup/static/media/jokbal.2b2c6a0c93195198fccd.jpg",
+    "static/media/kongnamul.jpg": "/favfoodcup/static/media/kongnamul.be893f5206ba450d5f65.jpg",
+    "static/media/sundaeguk.jpg": "/favfoodcup/static/media/sundaeguk.ad2f28f27cb882d346c4.jpg",
+    "static/media/jjajang.jpg": "/favfoodcup/static/media/jjajang.df35deb3516bca772121.jpg",
+    "static/media/jaeyuk.jpg": "/favfoodcup/static/media/jaeyuk.3cfe3b68de9bc5852e77.jpg",
+    "static/media/fish.jpg": "/favfoodcup/static/media/fish.1ebcfffcd09bd1184390.jpg",
+    "static/media/bibimbap.jpg": "/favfoodcup/static/media/bibimbap.99bbdb00b8643c4cec1e.jpg",
+    "static/media/bossam.jpg": "/favfoodcup/static/media/bossam.b80e5c510694081f45ac.jpg",
+    "static/media/samgyetang.jpg": "/favfoodcup/static/media/samgyetang.4bdbbf1ada90cc4e14de.jpg",
+    "static/media/kimchifriedrice.jpg": "/favfoodcup/static/media/kimchifriedrice.02886508b38cfa1e0e27.jpg",
+    "static/media/ramyun.jpg": "/favfoodcup/static/media/ramyun.1a0f2bcbcc0b749e0f67.jpg",
+    "static/media/kongguksu.jpg": "/favfoodcup/static/media/kongguksu.19757a87d212c01ca1f3.jpg",
+    "static/media/tteokbokki.jpg": "/favfoodcup/static/media/tteokbokki.9cd3875bdeff526fb45f.jpg",
+    "static/media/dongas.jpg": "/favfoodcup/static/media/dongas.e5124acdbb8ec839233d.jpg",
+    "static/media/yuksasimi.jpg": "/favfoodcup/static/media/yuksasimi.c3fba4365391345b0489.jpg",
+    "static/media/kalgooksu.jpg": "/favfoodcup/static/media/kalgooksu.7da16c441d8c2bc688d6.jpg",
+    "static/media/makguksu.jpg": "/favfoodcup/static/media/makguksu.d27d6b8f644b886d64e8.jpg",
+    "index.html": "/favfoodcup/index.html",
+    "main.143e680e.js.map": "/favfoodcup/static/js/main.143e680e.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.143e680e.js"
+  ]
+}
