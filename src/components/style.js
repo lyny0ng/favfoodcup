@@ -3,7 +3,7 @@ import styled from 'styled-components';
 export const FlexBox = styled.div`
     display: flex;
     flex-wrap: wrap;
-    height: 100vh;
+    // height: 100vh;
     font-size: 16px;
     * {
     font-family: 'Gowun Dodum', sans-serif;
@@ -14,6 +14,7 @@ export const FlexBox = styled.div`
     .flex-1 {
         flex: 1;
         min-width: 500px;
+        height: 35rem;
         overflow: hidden;
         position: relative;
     }
@@ -34,12 +35,13 @@ export const FlexBox = styled.div`
 
     .img_wrap {
         width: 100%;
-        height: 30rem;
+        // height: 30rem;
+        overflow: hidden;
     }
 
     .food-img {
         width:100%;
-        height: 100%;
+        height: auto;
         transition: all .8s;
         cursor: pointer;
         overflow: hidden;
@@ -65,11 +67,18 @@ export const FlexBox = styled.div`
     @media (max-width: 999px ) {
         .name {
             top: 60%;
-            left: 40%;
+            left: 30%;
+            font-size: 24px;
         }
 
         .title {
-            left: 50%;
+            left: 40%;
+            font-size: 1.5rem;
+            margin: 0 auto;
+        }
+
+        .flex-1 {
+            height: 17rem;
         }
     }
 `;
