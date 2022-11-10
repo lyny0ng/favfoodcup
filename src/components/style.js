@@ -67,12 +67,12 @@ export const FlexBox = styled.div`
     @media (max-width: 999px ) {
         .name {
             top: 60%;
-            left: 30%;
+            left: 40%;
             font-size: 24px;
         }
 
         .title {
-            left: 40%;
+            width: 100%;
             font-size: 1.5rem;
             margin: 0 auto;
         }
