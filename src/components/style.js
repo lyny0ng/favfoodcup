@@ -78,7 +78,7 @@ export const FlexBox = styled.div`
         }
 
         .flex-1 {
-            height: 30rem;
+            height: 25rem;
         }
     }
 `;
